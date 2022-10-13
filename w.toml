@@ -1,0 +1,4 @@
+[wow64]
+name = "WoW64"
+desc = "Windows 32-bit on Windows 64-bit"
+more = "A subsystem of the Windows operating system capable of running 32-bit applications on 64-bit Windows. It is included in all 64-bit versions of Windows"
