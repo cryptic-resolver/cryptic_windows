@@ -1,0 +1,5 @@
+[dia]
+name = "DIA SDK"
+desc = "Microsoft Debug Interface Access Software Development Kit"
+more = "Using DIA API, you can develop applications that search for and browse debug information stored in a .pdb file. Such applications could, for example, report stack trace-back information and analyze performance data."
+see = ["pdb"]

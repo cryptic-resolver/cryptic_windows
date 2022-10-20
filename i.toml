@@ -1,0 +1,4 @@
+[iis]
+name = "IIS"
+desc = "Internet Information Services"
+more = "An extensible web server software created by Microsoft for use with the Windows NT family"

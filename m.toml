@@ -1,7 +1,34 @@
-[mfc]
-name = "MFC"
-desc = "Microsoft Foundation Class Library"
+[msdn]
+name = "MSDN"
+desc = "Microsoft Developer Network"
 
 [masm]
 name = "MASM"
 desc = "Microsoft Macro Assembler"
+
+[msil]
+name = "MSIL"
+desc = "Microsoft Intermediate Language"
+more = "Deprecated. The bytecode is now officially known as CIL"
+see = 'CIL'
+
+[mfc]
+name = "MFC"
+desc = "Microsoft Foundation Class Library"
+
+[maui]
+name = ".NET MAUI"
+desc = ".NET Multi-platform App UI"
+
+[msvcrt]
+name = "MSVCRT"
+desc = "Microsoft Visual C++ Runtime"
+
+[msvc]
+name = "MSVC"
+desc = "Microsoft Visual C++"
+
+[msix]
+name = "MSIX"
+desc = "Microsoft appinstaller"
+

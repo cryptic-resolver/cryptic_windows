@@ -1,0 +1,10 @@
+[ole]
+name = "OLE"
+desc = "Object Linking and Embedding"
+more = "A proprietary technology developed by Microsoft that allows embedding and linking to documents and other objects"
+
+[omf]
+name = "OMF"
+desc = "Microsoft Object Module Format"
+more = "used by DMD on Windows"
+see = ['PE','COFF','ELF']

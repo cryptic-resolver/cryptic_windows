@@ -1,3 +1,8 @@
 [nt]
 name = "Windows NT"
 desc = "New Technology"
+
+[nsis]
+name = "NSIS"
+desc = "Nullsoft Scriptable Install System"
+more = "A script-driven installer authoring tool for Microsoft Windows backed by Nullsoft, the creators of Winamp"
