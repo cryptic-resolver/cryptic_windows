@@ -1,0 +1,7 @@
+[mfc]
+name = "MFC"
+desc = "Microsoft Foundation Class Library"
+
+[masm]
+name = "MASM"
+desc = "Microsoft Macro Assembler"

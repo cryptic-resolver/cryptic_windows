@@ -1,0 +1,4 @@
+[pe]
+name = "PE"
+desc = "Portable Executable"
+more = "A file format for executables, object code, DLLs and others used in 32-bit and 64-bit versions of Windows operating systems"

@@ -2,3 +2,17 @@
 name = "WoW64"
 desc = "Windows 32-bit on Windows 64-bit"
 more = "A subsystem of the Windows operating system capable of running 32-bit applications on 64-bit Windows. It is included in all 64-bit versions of Windows"
+
+[wpf]
+name = "WPF"
+desc = "Windows Presentation Foundation"
+
+[winrt]
+name = "WinRT"
+desc = "Windows Runtime"
+
+[wmi]
+name = "WMI"
+desc = "Windows Management Instrumentation"
+more = "it's deprecated, use CIM instead"
+see = ['CIM']

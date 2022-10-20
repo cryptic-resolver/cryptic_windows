@@ -1,0 +1,4 @@
+[atl]
+name = "ATL"
+desc = "Active Template Library"
+more = "A set of template-based C++ classes developed by Microsoft, intended to simplify the programming of Component Object Model (COM) objects"

@@ -1,0 +1,8 @@
+[cpl]
+name = "cpl"
+desc = "Control PaneL"
+more = "Control panel tools for Windows"
+
+[cim]
+name = "CIM"
+desc = "Common Information Model for PowerShell"
