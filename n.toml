@@ -2,6 +2,10 @@
 name = "Windows NT"
 desc = "New Technology"
 
+[ntfs]
+name = "NTFS"
+desc = "New Technology File System"
+
 [nsis]
 name = "NSIS"
 desc = "Nullsoft Scriptable Install System"

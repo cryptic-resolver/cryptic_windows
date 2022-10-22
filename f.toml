@@ -1,0 +1,5 @@
+[fat]
+name = "FAT"
+desc = "File Allocation Table"
+more = "FAT was also used on hard disks throughout the DOS and Windows 9x eras. Microsoft introduced a new file system, NTFS, with the Windows NT platform in 1993, but FAT remained the standard for the home user until the introduction of the NT-based Windows XP in 2001"
+see = 'NTFS'

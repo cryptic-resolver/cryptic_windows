@@ -16,3 +16,13 @@ name = "WMI"
 desc = "Windows Management Instrumentation"
 more = "it's deprecated, use CIM instead"
 see = ['CIM']
+
+[wsl]
+name = "WSL"
+desc = "Windows Subsystem for Linux"
+see = 'WSA'
+
+[wsa]
+name = "WSA"
+desc = "Windows Subsystem for Android"
+see = 'WSL'

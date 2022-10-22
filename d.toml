@@ -1,3 +1,7 @@
+[dll]
+name = "DLL"
+desc = "Dynamic Link Library"
+
 [dia]
 name = "DIA SDK"
 desc = "Microsoft Debug Interface Access Software Development Kit"
