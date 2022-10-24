@@ -2,3 +2,8 @@
 name = "SMB"
 desc = "Server Message Block"
 more = "A networking file share protocol included in Windows 10 that provides the ability to read and write files and perform other service requests to network devices. Usually, you'll be using SMB to connect to devices that don't run Windows, such as a router with file sharing capabilities, Network-Attached Storage (NAS), or other computers running Linux."
+
+[stdafx]
+name = "stdafx.h"
+desc = "Application Framework Extensions"
+more = "A 'precompiled header file' -- any headers you include in stdafx.h are pre-processed to save time during subsequent compilations. The name of stdafx.h dates from around 1992, when MFC was called 'Application Framework Extensions' before its release. Visual Studio 2015 still defaults to the name"

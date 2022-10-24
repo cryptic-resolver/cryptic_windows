@@ -40,3 +40,8 @@ desc = "Common Information Model for PowerShell"
 name = "COM"
 desc = "Component Object Model"
 more = "A binary-interface standard for software components introduced by Microsoft in 1993. It is used to enable inter-process communication object creation in a large range of programming languages"
+
+[com.DOS]
+name = ".COM file"
+desc = "command"
+more = "A type of simple executable file, the original binary executable format used in CP/M as well as DOS."

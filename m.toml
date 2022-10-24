@@ -27,6 +27,7 @@ desc = "Microsoft Visual C++ Runtime"
 [msvc]
 name = "MSVC"
 desc = "Microsoft Visual C++"
+more = "A compiler for the C, C++ and C++/CX programming languages by Microsoft"
 
 [msix]
 name = "MSIX"

@@ -2,3 +2,8 @@
 name = "UAC"
 desc = "User Account Control"
 more = "A mandatory access control enforcement feature introduced with Microsoft's Windows Vista and Windows Server 2008. It aims to improve the security of Microsoft Windows by limiting application software to standard user privileges until an administrator authorises an increase or elevation. "
+
+[unc]
+name = "UNC"
+desc = "Universal Naming Convention"
+more = "The naming system applied in Microsoft Windows. It makes use of double slashes or backslashes to precede the name of the computer. The paths (disks and directories) within the computer are separated with a single slash or backslash (\\)."
