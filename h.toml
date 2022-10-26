@@ -1,0 +1,3 @@
+[hkey]
+name = "HKEY"
+desc = "Handle to Registry Key"
