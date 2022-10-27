@@ -7,3 +7,16 @@ name = "DIA SDK"
 desc = "Microsoft Debug Interface Access Software Development Kit"
 more = "Using DIA API, you can develop applications that search for and browse debug information stored in a .pdb file. Such applications could, for example, report stack trace-back information and analyze performance data."
 see = ["pdb"]
+
+[ddk]
+name = "DDK"
+desc = "Windows Driver Development Kit"
+
+[dlgs.Header]
+name = "dlgs.h"
+more = "Header file for UI dialog"
+see = 'commdlg'
+
+[dde.Header]
+name = "dde.h"
+more = "Header file for Dynamic Data Exchange structures and definitions"

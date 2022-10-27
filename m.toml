@@ -29,7 +29,10 @@ name = "MSVC"
 desc = "Microsoft Visual C++"
 more = "A compiler for the C, C++ and C++/CX programming languages by Microsoft"
 
-[msix]
+[msix.Extension]
 name = "MSIX"
 desc = "Microsoft appinstaller"
 
+[mmsystem.Header]
+name = "mmsystem.h"
+more = "Header file for the Multimedia API"

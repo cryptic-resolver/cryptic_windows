@@ -26,3 +26,28 @@ see = 'WSA'
 name = "WSA"
 desc = "Windows Subsystem for Android"
 see = 'WSL'
+
+
+#########################
+#        Headers
+#########################
+
+[winnls.Header]
+name = "winnls.h"
+more = "Header file for Internationalization for Windows Applications. See: https://learn.microsoft.com/en-us/windows/win32/api/winnls/"
+
+[wincon.Header]
+name = "wincon.h"
+more = "Header file for the NT console subsystem"
+
+[winperf.Header]
+name = "winperf.h"
+more = "Header file for the Performance Monitor data"
+
+[winsvc.Header]
+name = "winsvc.h"
+more = "Header file for the Service Control Manager"
+
+[windef.Header]
+name = "windef.h"
+more = "Header file for Basic Windows Type Definitions"

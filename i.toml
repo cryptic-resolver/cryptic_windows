@@ -2,3 +2,7 @@
 name = "IIS"
 desc = "Internet Information Services"
 more = "An extensible web server software created by Microsoft for use with the Windows NT family"
+
+[imm.Header]
+name = "imm.h"
+more = "Header file for the Input Method Manager"

@@ -10,3 +10,7 @@ desc = "New Technology File System"
 name = "NSIS"
 desc = "Nullsoft Scriptable Install System"
 more = "A script-driven installer authoring tool for Microsoft Windows backed by Nullsoft, the creators of Winamp"
+
+[nb30.Header]
+name = "nb30.h"
+more = "Header file for the NetBIOS 3.0"

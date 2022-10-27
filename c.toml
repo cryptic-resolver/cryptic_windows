@@ -45,3 +45,12 @@ more = "A binary-interface standard for software components introduced by Micros
 name = ".COM file"
 desc = "command"
 more = "A type of simple executable file, the original binary executable format used in CP/M as well as DOS."
+
+[commdlg.Header]
+name = "commdlg.h"
+more = "Header file for the Common Dialog APIs"
+see = 'dlgs.h'
+
+[cderr.Header]
+name = "cderr.h"
+more = "Header file for Common dialog error return codes"
