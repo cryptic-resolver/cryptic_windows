@@ -7,3 +7,7 @@ more = "A mandatory access control enforcement feature introduced with Microsoft
 name = "UNC"
 desc = "Universal Naming Convention"
 more = "The naming system applied in Microsoft Windows. It makes use of double slashes or backslashes to precede the name of the computer. The paths (disks and directories) within the computer are separated with a single slash or backslash (\\)."
+
+[uwp]
+name = "UWP"
+desc = "Universal Windows Platform"

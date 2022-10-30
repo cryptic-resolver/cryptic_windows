@@ -3,7 +3,13 @@ name = "SMB"
 desc = "Server Message Block"
 more = "A networking file share protocol included in Windows 10 that provides the ability to read and write files and perform other service requests to network devices. Usually, you'll be using SMB to connect to devices that don't run Windows, such as a router with file sharing capabilities, Network-Attached Storage (NAS), or other computers running Linux."
 
-[stdafx]
+[stdafx.Header]
 name = "stdafx.h"
 desc = "Application Framework Extensions"
 more = "A 'precompiled header file' -- any headers you include in stdafx.h are pre-processed to save time during subsequent compilations. The name of stdafx.h dates from around 1992, when MFC was called 'Application Framework Extensions' before its release. Visual Studio 2015 still defaults to the name"
+
+[stl]
+name = "STL"
+desc = "Microsoft's implementation of the C++ Standard Library"
+more = """From a historical perspective, "STL" originally referred to the Standard Template Library written by Alexander Stepanov. Parts of that library were standardized in the C++ Standard Library, along with the ISO C runtime library, parts of the Boost library, and other functionality. Sometimes "STL" is used to refer to the containers and algorithms parts of the C++ Standard Library adapted from Stepanov's STL. In this documentation, Standard Template Library (STL) refers to the C++ Standard Library as a whole.
+"""

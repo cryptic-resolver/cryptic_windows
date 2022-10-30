@@ -27,6 +27,11 @@ name = "WSA"
 desc = "Windows Subsystem for Android"
 see = 'WSL'
 
+[winpe]
+name = "WinPE"
+desc = "Windows Preinstallation Environment"
+more = "A lightweight version of Windows used for the deployment of PCs, workstations, and servers, or troubleshooting an operating system while it is offline. "
+
 
 #########################
 #        Headers
