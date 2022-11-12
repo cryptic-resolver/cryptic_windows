@@ -6,3 +6,7 @@ see = ['VC']
 [vc]
 name = "VC"
 same = 'MSVC<=>msvc'
+
+[vfat]
+name = "VFAT"
+desc = "Virtual FAT"
