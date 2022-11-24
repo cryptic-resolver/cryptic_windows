@@ -36,3 +36,13 @@ desc = "Microsoft appinstaller"
 [mmsystem.Header]
 name = "mmsystem.h"
 more = "Header file for the Multimedia API"
+
+[mmc]
+name = "MMC"
+desc = "Microsoft Management Console"
+
+[msc]
+name = ".msc file"
+desc = "Microsoft Management Console programs"
+more = "snap-in control files that are associated with the Microsoft Management Console on Windows machines to run administrative tasks."
+see = 'MMC'

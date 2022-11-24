@@ -20,3 +20,8 @@ see = 'commdlg'
 [dde.Header]
 name = "dde.h"
 more = "Header file for Dynamic Data Exchange structures and definitions"
+
+[dmg]
+name = ".dmg"
+desc = "Apple Disk Image"
+more = "A disk image format commonly used by the macOS operating system. When opened, an Apple Disk Image is mounted as a volume within the Finder."
