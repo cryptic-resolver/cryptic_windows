@@ -46,3 +46,8 @@ name = ".msc file"
 desc = "Microsoft Management Console programs"
 more = "snap-in control files that are associated with the Microsoft Management Console on Windows machines to run administrative tasks."
 see = 'MMC'
+
+[mbasic]
+name = "MBASIC"
+desc = "Microsoft BASIC"
+more = "Implementation of BASIC for the CP/M operating system. MBASIC is a descendant of the original Altair BASIC interpreters that were among Microsoft's first products. "

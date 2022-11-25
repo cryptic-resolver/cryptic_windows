@@ -25,3 +25,13 @@ more = "Header file for Dynamic Data Exchange structures and definitions"
 name = ".dmg"
 desc = "Apple Disk Image"
 more = "A disk image format commonly used by the macOS operating system. When opened, an Apple Disk Image is mounted as a volume within the Finder."
+
+[dos]
+name = "DOS"
+desc = "Disk Operating System"
+more = "later became a common shorthand for disk-based operating systems on IBM PC compatibles"
+
+[dr-dos]
+name = "DR-DOS"
+desc = "Digital Research DOS"
+more = "Initial release in 1988, latest release in 2011."

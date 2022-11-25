@@ -1,3 +1,8 @@
 [gdi]
 name = "GDI"
 desc = "Graphics Device Interface by Microsoft Windows"
+
+[gw-basic]
+name = "GW-BASIC"
+desc = "Greg Whitten BASIC"
+more = "Greg Whitten, an early Microsoft employee who developed the standards in the company's BASIC compiler line, says that Bill Gates picked the name GW-BASIC."
