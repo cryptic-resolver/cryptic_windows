@@ -5,7 +5,7 @@ see = ['VC']
 
 [vc]
 name = "VC"
-same = 'MSVC<=>msvc'
+same = 'MSVC=>msvc'
 
 [vfat]
 name = "VFAT"
