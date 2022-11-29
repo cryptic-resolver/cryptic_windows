@@ -1,4 +1,4 @@
-name: test-dict
+name: Test-Dict
 
 on: [push, pull_request]
 
