@@ -56,3 +56,7 @@ more = "Header file for the Service Control Manager"
 [windef.Header]
 name = "windef.h"
 more = "Header file for Basic Windows Type Definitions"
+
+[whp]
+name = "WHP"
+desc = "Windows Hypervisor Platform"
