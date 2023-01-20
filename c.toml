@@ -58,3 +58,7 @@ more = "Header file for Common dialog error return codes"
 [cdb]
 name = "CDB"
 desc = "Microsoft Console Debugger"
+
+[chm]
+name = "CHM"
+desc = "Microsoft Compiled HTML Help"
