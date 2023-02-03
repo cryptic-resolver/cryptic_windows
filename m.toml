@@ -50,4 +50,8 @@ see = 'MMC'
 [mbasic]
 name = "MBASIC"
 desc = "Microsoft BASIC"
-more = "Implementation of BASIC for the CP/M operating system. MBASIC is a descendant of the original Altair BASIC interpreters that were among Microsoft's first products. "
+more = "Implementation of BASIC for the CP/M operating system. MBASIC is a descendant of the original Altair BASIC interpreters that were among Microsoft's first products."
+
+[mvp]
+name = "MVP"
+desc = "Microsoft Most Valuable Professional"
