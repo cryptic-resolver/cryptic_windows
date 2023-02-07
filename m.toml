@@ -1,6 +1,7 @@
 [msdn]
 name = "MSDN"
 desc = "Microsoft Developer Network"
+see = ['OSDN', 'CSDN']
 
 [masm]
 name = "MASM"

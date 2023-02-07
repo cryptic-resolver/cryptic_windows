@@ -1,3 +1,7 @@
 [hkey]
 name = "HKEY"
 desc = "Handle to Registry Key"
+
+[hkcu]
+name = "Registry HKCU"
+desc = "HKEY_CURRENT_USER"
