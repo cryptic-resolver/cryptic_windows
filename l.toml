@@ -1,3 +1,7 @@
 [linq]
 name = "LINQ"
 desc = "Language Integrated Query"
+
+[lpcwstr]
+name = "LPCWSTR"
+desc = "Long Pointer to Constant Wide String"
