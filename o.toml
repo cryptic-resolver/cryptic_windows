@@ -6,5 +6,4 @@ more = "A proprietary technology developed by Microsoft that allows embedding an
 [omf]
 name = "OMF"
 desc = "Microsoft Object Module Format"
-more = "used by DMD on Windows"
 see = ['PE','COFF','ELF']

@@ -35,3 +35,7 @@ more = "later became a common shorthand for disk-based operating systems on IBM 
 name = "DR-DOS"
 desc = "Digital Research DOS"
 more = "Initial release in 1988, latest release in 2011."
+
+[dxgi]
+name = "DXGI"
+desc = "DirectX Graphics Infrastructure"

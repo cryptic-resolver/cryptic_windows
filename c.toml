@@ -62,3 +62,7 @@ desc = "Microsoft Console Debugger"
 [chm]
 name = "CHM"
 desc = "Microsoft Compiled HTML Help"
+
+[cd]
+name = "%cd%"
+desc = "expands to the Current Directory in CMD"
