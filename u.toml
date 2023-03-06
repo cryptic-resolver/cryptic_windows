@@ -11,3 +11,11 @@ more = "The naming system applied in Microsoft Windows. It makes use of double s
 [uwp]
 name = "UWP"
 desc = "Universal Windows Platform"
+
+[usn]
+name = "NTFS USN"
+desc = "Update Sequence Number change journal"
+more = """The USN change journal provides a persistent log of all changes made to files on the volume. As files, directories, and other NTFS objects are added, deleted, and modified, NTFS enters records into the USN change journal, one for each volume on the computer. Each record indicates the type of change and the object changed. New records are appended to the end of the stream.
+
+  See: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/fsutil-usn
+"""
