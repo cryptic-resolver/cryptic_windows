@@ -13,3 +13,7 @@ same = "MSVCRT=>msvcrt"
 [vfat]
 name = "VFAT"
 desc = "Virtual FAT"
+
+[vdisk]
+name = "VDISK"
+desc = "virtual disc, i.e. RAM Drive"

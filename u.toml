@@ -19,3 +19,15 @@ more = """The USN change journal provides a persistent log of all changes made t
 
   See: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/fsutil-usn
 """
+
+[uma.DOS]
+name = "UMA"
+desc = "Upper Memory Area"
+more = """In DOS memory management, the upper memory area (UMA) refers to memory between the addresses of 640 KB and 1024 KB (0xA0000–0xFFFFF) in an IBM PC or compatible. IBM reserved the uppermost 384 KB of the 8088 CPU's 1024 KB address space for BIOS ROM, Video BIOS, Option ROMs, video RAM, RAM on peripherals, memory-mapped I/O, and obsoleted ROM BASIC.
+
+  However, even with video RAM, the ROM BIOS, the Video BIOS, the Option ROMs, and I/O ports for peripherals, much of this 384 KB of address space was unused. As the 640 KB memory restriction became ever more of an obstacle, techniques were found to fill the empty areas with RAM. These areas were referred to as upper memory blocks (UMBs)."""
+see = 'HMA'
+
+[umb.DOS]
+name = "UMB"
+desc = "Upper Memory Blocks"
