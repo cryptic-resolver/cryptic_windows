@@ -1,0 +1,4 @@
+[tsr.DOS]
+name = "TSR"
+desc = "Terminate-and-Stay-Resident program"
+more = "A computer program running under DOS that uses a system call to return control to DOS as though it has finished, but remains in computer memory so it can be reactivated later. This technique partially overcame DOS's limitation of executing only one program, or task, at a time. TSRs are used only in DOS, not in Windows"

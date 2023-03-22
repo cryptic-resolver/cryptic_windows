@@ -12,3 +12,8 @@ see = ['dwarf']
 [psz]
 name = "Hungarian notation <pszXXX>"
 desc = "a pointer to a zero-terminated string"
+
+[pgme.DOS]
+name = "PGME"
+desc = "Program Manager Eternity"
+more = "A fully customizable multi-menu application launcher for DOS"
