@@ -1,0 +1,3 @@
+[jemm386.DOS]
+name = "JEMM386"
+desc = "An Expanded Memory Manager. JEMM386 requires a 80386+ CPU"
