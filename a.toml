@@ -7,3 +7,7 @@ more = "A set of template-based C++ classes developed by Microsoft, intended to 
 name = "APM"
 desc = "Advanced Power Management"
 more = "It was developed by Microsoft and Intel around 1992, as a way to provide power management on Intel PCs"
+
+[amb.DOS]
+name = "AMB"
+desc = "Ancient Machine Book"

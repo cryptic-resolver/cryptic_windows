@@ -39,3 +39,13 @@ more = "Initial release in 1988, latest release in 2011."
 [dxgi]
 name = "DXGI"
 desc = "DirectX Graphics Infrastructure"
+
+[dpmi]
+name = "DPMI"
+desc = "DOS Protected Mode Interface"
+more = "A specification introduced in 1989 which allows a DOS program to run in protected mode, giving access to many features of the new PC processors of the time not available in real mode. It was initially developed by Microsoft for Windows 3.0"
+
+[djgpp]
+name = "DJGPP"
+desc = "DJ's GNU Programming Platform"
+more = "A software development suite for Intel 80386-level and above, IBM PC compatibles which supports DOS operating systems. It is guided by DJ Delorie, who began the project in 1989. It is a port of the GCC, and mostly GNU utilities such as Bash, find, tar, ls, GAWK, sed, and ld to DOS Protected Mode Interface (DPMI). Supported languages include C, C++, Objective-C/C++, Ada, Fortran, and Pascal"

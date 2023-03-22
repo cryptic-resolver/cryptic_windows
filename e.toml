@@ -2,3 +2,11 @@
 name = "EFS"
 desc = "Encrypting File System"
 more = "A feature introduced in version 3.0 of NTFS (Released in 2000) that provides filesystem-level encryption"
+
+[ems.DOS]
+name = "EMS"
+desc = "Expanded Memory Specification"
+
+[emm.DOS]
+name = "EMM386"
+desc = "Expanded Memory Manager"

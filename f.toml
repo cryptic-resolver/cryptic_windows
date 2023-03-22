@@ -7,3 +7,15 @@ see = 'NTFS'
 [fcl]
 name = "FCL"
 desc = ".NET Framework Class Library"
+
+[fdimples.FreeDOS]
+name = "FDIMPLES"
+desc = "FreeDOS Installer - My Package List Editor Software"
+
+[fc.DOS]
+name = "fc"
+desc = "File Compare"
+
+[fdisk.DOS]
+name = "fdisk"
+desc = "Fixed disk tool - create partitions"

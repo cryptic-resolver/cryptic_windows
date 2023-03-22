@@ -5,3 +5,9 @@ desc = "Handle to Registry Key"
 [hkcu]
 name = "Registry HKCU"
 desc = "HKEY_CURRENT_USER"
+
+[hma.DOS]
+name = "HMA"
+desc = "High Memory Area"
+more = "The RAM area consisting of the first 65520 bytes above the one megabyte in an IBM AT or compatible computer"
+see = "UMA"
