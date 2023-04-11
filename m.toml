@@ -56,3 +56,7 @@ more = "Implementation of BASIC for the CP/M operating system. MBASIC is a desce
 [mvp]
 name = "MVP"
 desc = "Microsoft Most Valuable Professional"
+
+[msr]
+name = "MSR"
+desc = "Microsoft Research"
