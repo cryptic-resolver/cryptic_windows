@@ -13,3 +13,8 @@ name = "STL"
 desc = "Microsoft's implementation of the C++ Standard Library"
 more = """From a historical perspective, "STL" originally referred to the Standard Template Library written by Alexander Stepanov. Parts of that library were standardized in the C++ Standard Library, along with the ISO C runtime library, parts of the Boost library, and other functionality. Sometimes "STL" is used to refer to the containers and algorithms parts of the C++ Standard Library adapted from Stepanov's STL. In this documentation, Standard Template Library (STL) refers to the C++ Standard Library as a whole.
 """
+
+[sta]
+name = "STA"
+desc = "Single-Thread Apartment"
+more = "A concurrency model"

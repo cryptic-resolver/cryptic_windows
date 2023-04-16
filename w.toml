@@ -39,7 +39,9 @@ more = "A lightweight version of Windows used for the deployment of PCs, worksta
 
 [winnls.Header]
 name = "winnls.h"
-more = "Header file for Internationalization for Windows Applications. See: https://learn.microsoft.com/en-us/windows/win32/api/winnls/"
+more = """Header file for Internationalization for Windows Applications.
+
+  Visit: https://learn.microsoft.com/en-us/windows/win32/api/winnls/"""
 
 [wincon.Header]
 name = "wincon.h"
@@ -60,3 +62,16 @@ more = "Header file for Basic Windows Type Definitions"
 [whp]
 name = "WHP"
 desc = "Windows Hypervisor Platform"
+
+[wic]
+name = "WIC"
+desc = "Windows Imaging Component"
+
+[wdm]
+name = "WDM"
+desc = "Windows Driver Model"
+
+[winmm]
+name = "Winmm"
+desc = "Windows MultiMedia API"
+more = "The WinMM system components (Winmm.dll and its 16-bit counterpart, Mmsystem.dll) implement the Microsoft Windows multimedia APIs waveXxx, midiXxx, mixerXxx, and auxXxx (see Microsoft Windows SDK documentation). The WinMM components use the WDMAud system driver to translate the WinMM API calls into kernel-streaming I/O requests"
