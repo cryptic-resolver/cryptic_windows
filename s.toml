@@ -7,6 +7,7 @@ more = "A networking file share protocol included in Windows 10 that provides th
 name = "stdafx.h"
 desc = "Application Framework Extensions"
 more = "A 'precompiled header file' -- any headers you include in stdafx.h are pre-processed to save time during subsequent compilations. The name of stdafx.h dates from around 1992, when MFC was called 'Application Framework Extensions' before its release. Visual Studio 2015 still defaults to the name"
+see = 'pch.h'
 
 [stl]
 name = "STL"

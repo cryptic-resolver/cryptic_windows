@@ -17,3 +17,9 @@ desc = "a pointer to a zero-terminated string"
 name = "PGME"
 desc = "Program Manager Eternity"
 more = "A fully customizable multi-menu application launcher for DOS"
+
+[pch.Header]
+name = "<pch.h>"
+desc = "PreCompiled Header file"
+more = "In Visual Studio 2017 and earlier, the file was called <stdafx.h>"
+see = 'stdafx.h'
