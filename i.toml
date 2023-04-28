@@ -6,3 +6,15 @@ more = "An extensible web server software created by Microsoft for use with the 
 [imm.Header]
 name = "imm.h"
 more = "Header file for the Input Method Manager"
+
+[irp]
+name = "IRP"
+desc = "I/O Request Packet"
+
+[isr]
+name = "ISR"
+desc = "Interrupt Service Routine"
+
+[iocp]
+name = "IOCP"
+desc = "I/O Completion Port"

@@ -53,3 +53,8 @@ more = "A software development suite for Intel 80386-level and above, IBM PC com
 [d2d]
 name = "D2D"
 desc = "Direct2D"
+
+[dpc]
+name = "DPC"
+desc = "Deferred Procedure Calls"
+see = 'APC'

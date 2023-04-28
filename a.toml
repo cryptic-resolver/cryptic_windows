@@ -11,3 +11,8 @@ more = "It was developed by Microsoft and Intel around 1992, as a way to provide
 [amb.DOS]
 name = "AMB"
 desc = "Ancient Machine Book"
+
+[apc]
+name = "APC"
+desc = "Asynchronous Procedure Call"
+see = 'DPC'

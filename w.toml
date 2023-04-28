@@ -11,21 +11,29 @@ desc = "Windows Presentation Foundation"
 name = "WinRT"
 desc = "Windows Runtime"
 
+[winrm]
+name = "WinRM"
+desc = "Windows Remote Management"
+
 [wmi]
 name = "WMI"
 desc = "Windows Management Instrumentation"
 more = "it's deprecated, use CIM instead"
 see = ['CIM']
 
-[wsl]
+[wsl.Subsystem]
 name = "WSL"
 desc = "Windows Subsystem for Linux"
 see = 'WSA'
 
-[wsa]
+[wsa.Subsystem]
 name = "WSA"
 desc = "Windows Subsystem for Android"
 see = 'WSL'
+
+[wsa.Win32API]
+name = "WSA"
+desc = "Windows Sockets API"
 
 [winpe]
 name = "WinPE"
