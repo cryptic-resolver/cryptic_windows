@@ -40,6 +40,12 @@ name = "WinPE"
 desc = "Windows Preinstallation Environment"
 more = "A lightweight version of Windows used for the deployment of PCs, workstations, and servers, or troubleshooting an operating system while it is offline. "
 
+[winsxs]
+name = "WinSxS"
+desc = "Side-by-side assembly"
+more = """A standard for executable files in Windows 98 Second Edition, Windows 2000, and later versions of Windows that attempts to alleviate problems (collectively known as 'DLL Hell') that arise from the use of dynamic-link libraries (DLLs) in Microsoft Windows.
+
+  Such problems include version conflicts, missing DLLs, duplicate DLLs, and incorrect or missing registration. In side-by-side, Windows stores multiple versions of a DLL in the WinSxS subdirectory of the Windows directory, and loads them on demand. This reduces dependency problems for applications that include a side-by-side manifest."""
 
 #########################
 #        Headers

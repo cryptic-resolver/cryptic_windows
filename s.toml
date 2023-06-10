@@ -19,3 +19,7 @@ more = """From a historical perspective, "STL" originally referred to the Standa
 name = "STA"
 desc = "Single-Thread Apartment"
 more = "A concurrency model"
+
+[sxs]
+name = "SxS"
+same = "WinSxS=>winsxs"
