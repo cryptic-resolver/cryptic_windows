@@ -9,6 +9,10 @@ desc = "Application Framework Extensions"
 more = "A 'precompiled header file' -- any headers you include in stdafx.h are pre-processed to save time during subsequent compilations. The name of stdafx.h dates from around 1992, when MFC was called 'Application Framework Extensions' before its release. Visual Studio 2015 still defaults to the name"
 see = 'pch.h'
 
+[shlwapi.Header]
+name = "shlwapi.h"
+desc = "Shell of Windows API"
+
 [stl]
 name = "STL"
 desc = "Microsoft's implementation of the C++ Standard Library"
