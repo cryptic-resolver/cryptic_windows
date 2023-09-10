@@ -27,3 +27,14 @@ more = "A concurrency model"
 [sxs]
 name = "SxS"
 same = "WinSxS=>winsxs"
+
+[schannel]
+name = "Schannel"
+desc = "Security channel"
+more = "A security package that provides authentication between clients and servers"
+see = ['SSP']
+
+[ssp]
+name = "SSP"
+desc = "Security Support Provider"
+more = "A dynamic-link library (DLL) that implements the SSPI by making one or more security packages available to applications. Each security package provides mappings between an application's SSPI function calls and an actual security model's functions. Security packages support security protocols such as Kerberos authentication and the Microsoft LAN Manager"
