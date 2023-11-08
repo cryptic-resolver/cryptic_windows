@@ -11,10 +11,6 @@ more = "Header file for the Input Method Manager"
 name = "IRP"
 desc = "I/O Request Packet"
 
-[isr]
-name = "ISR"
-desc = "Interrupt Service Routine"
-
 [iocp]
 name = "IOCP"
 desc = "I/O Completion Port"
