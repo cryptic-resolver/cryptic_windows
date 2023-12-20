@@ -10,3 +10,7 @@ desc = "Expanded Memory Specification"
 [emm.DOS]
 name = "EMM386"
 desc = "Expanded Memory Manager"
+
+[etw]
+name = "ETW"
+desc = "Event Tracing for Windows"
