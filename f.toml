@@ -19,3 +19,7 @@ desc = "File Compare"
 [fdisk.DOS]
 name = "fdisk"
 desc = "Fixed disk tool - create partitions"
+
+[fbt]
+name = "FBT"
+desc = "Function Boundary Tracing"
