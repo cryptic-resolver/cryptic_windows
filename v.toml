@@ -3,6 +3,10 @@ name = "VB"
 desc = "Microsoft Visual Basic"
 see = ['VC']
 
+[vba]
+name = "VBA"
+desc = "Visual Basic for Applications"
+
 [vc]
 name = "VC"
 same = 'MSVC=>msvc'
